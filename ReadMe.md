@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Programador iniciante/Beginner programmer<br>🌱 Estou aprendendo Python e C#/Learning Python and C#<br>⚡ Tenho conhecimento intermediário de inglês/Intermediate English
+🔭 Programador iniciante/Beginner programmer<br>🌱 Aprendendo Python e C#/Learning Python and C#<br>⚡ Conhecimento intermediário de inglês/Intermediate English
 
 
 ## 🌐 Socials:
